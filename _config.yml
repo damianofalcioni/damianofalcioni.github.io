@@ -23,7 +23,7 @@ timezone: Europe/Rome
 
 title: Damiano Falcioni                          # the main title
 
-tagline: Personal Blog   # it will display as the sub-title
+tagline: Another Blog   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Damiano Falcioni Personal Blog
@@ -35,7 +35,7 @@ github:
   username: damianofalcioni             # change to your github username
 
 twitter:
-  username: DamianoFalcioni            # change to your twitter username
+  username: damianofalcioni            # change to your twitter username
 
 social:
   # Change to your full name.
